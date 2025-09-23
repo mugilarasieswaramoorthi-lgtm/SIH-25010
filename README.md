@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date:20/09/2025
+# Date:23/09/2025
 ## Register Number:25017644
 ## Name:Mugilarasi E
 ## Problem Title
@@ -122,6 +122,19 @@ Social: Empowerment of small farmers through access to scientific, localized adv
 Economic: Increased crop yield and better market price tracking, leading to higher income.
 
 Environmental: Reduced use of chemicals and fertilizers, leading to more sustainable farming practices and healthier ecosystems.
+
+## Flowchart 
+   <h3>flowchart</h3>
+
+<img width="1267" height="2009" alt="flowchart" src="https://github.com/user-attachments/assets/cb4ce20f-d4c6-4491-b707-e4046864d730" />
+
+
+
+
+
+
+
+   
 
 ## Research and References
 NABARD Report (2022): 86% of Indian farmers are small or marginal, underscoring the need for accessible, affordable technology solutions.
